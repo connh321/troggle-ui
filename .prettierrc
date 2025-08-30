@@ -23,12 +23,6 @@
       }
     },
     {
-      "files": "*.sass",
-      "options": {
-        "parser": "scss"
-      }
-    },
-    {
       "files": "*.css",
       "options": {
         "parser": "css"
